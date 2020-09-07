@@ -1,4 +1,6 @@
- 
+# Can't Stop Game Jam
+
+The following is a starter for your project. Open it up in MakeCode Arcade and start implementing your design.
 
 
 > Open this page at [https://dnbailey.github.io/cant-stop/](https://dnbailey.github.io/cant-stop/)
